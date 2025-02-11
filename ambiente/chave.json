@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "eighth-etching-437615-p9",
+  "private_key_id": "8a0cffa8246d3493f8e48b12652d3c0231dc9aa8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzC2xjEU/n9ITt\nlkJ3ZKXfRaHXxD/wYGg4vVKJWt+iOqOo5+FDmrnOV/Y7xLQ2r9V8un7Ol1N917VO\nO/DrVJ8qtARRZr3lqmCgwC5rpte+ddhI4Z+jAmzMBZNrU37RM7Q5sKx6cTEzhuXl\nxgKw3Uo4U3OEzxXBRGqKl7M4Vg9ArAYbM5SFLs8BVD/nQjU+wzAZyEYLvh7R3uwM\nBYF1TKdaTyikPUuhqVvfkU1MzdU+aUYkIKPYT4+HcZWgQ91p78XgbM9gm4tH25/J\nBC9JINTGeChyrzRyioBPFPTc/2+TYaMxrrNEX+qU127kP2eukMnpMr1rTFFHhHSm\na4wt1PzRAgMBAAECggEADB/b6SGE/borPkOMoLUqHmKCwS/C/K4qoJ0Bd9e1iTDb\nYFbDhGZ36qc+P3Hkmkdx945Rg//vYXg4COI6QFVsqeGi4ThJ58GP5ZLeEeAsf/NP\nADB3NPy3DWHbR8tRrS0JKVbzdx8vK8QY0WSFTiDOI95S1k2HtZzCcjwvoMMDKWff\nws+hdD4Uq8taKdqD86va5g8LpFHi+lokd3jfhS47GsAyNyRfNUepY1/x0w+UYNfq\nbxrbf/cu3sB5FFDvhiqAQNiOlL2ZWkJ2wLsywaIho8+yjBab9m1mxcN/XR+IpwnG\nAkL+GYUEDo0FV8FiIQT+TulFHiJijzmr1SaoFSHvoQKBgQDgZLiItnPTBEB1zfD0\n5zBjaImuDk/y5Oyj8cf4fPyasFQCxgCju5XRyQtG0lR8artkLwmztN9YiHoNxmD2\njXPCLN3A/xy3K9xrnuPdeBbWPiUQsymRbSimn8mNra9k9omXtMWGEyQtaM4hKa5E\n/NIdXSWpiC7hwfEjBC7gsNfoxQKBgQDMQ36bcnaiWvwkPx5itfR7mBkAUY9wGAd2\nRYqLCyHFT3VEIex0lJOsheQ2ES2VQULdDZadX2PSg8rkrR96lU0msgMmElfUO548\nof7khAmwqbQ2GiJNeVzviY3KIlb5939/bhYIl2JpUzL1FPkWjrlKYAFO/VUArSIV\nIkQ2hJoMnQKBgHnwgg9ZBuwfHWBnP4/2qmb7AgaiJHQcTzRwSXkRgrwVIjI3o1VW\ntP3BwO0Fk3/hCGBS53TOz6hu0dT2fu68w7E7bG5atCIeJbQeLjnF7rMSJlZC5k3v\nAe46Wu8w+WVmTDMyuzw23qwGji2bVuaKdSwb2EGejcuE9yNOPKNBtrL5AoGBAI0y\nIrRlXShBaIXNs71cNZGxw6Z6uoIrugzBaVFP8ponoNHl+UNk6Oea7fOJ0E6Z/BQ9\nrl0+cQw12exU16uuxNP4vUB18YxdYbZb7Iwd0WzzAgVb71ZKjDlwhjixoBnOQa3e\ndRCfRIG150WOp9g19FM7JexqJXYAN80QEML2yl3pAoGAGnZHwRv4726DtH1I6swZ\nWED8AQQLGLAsilDdRkULY7Ees0OlpqcSV/4F2zAjP9G5FSkqI/ununl8x3YjvXZP\n+7TId902cQ2xB2Sbgp6ISpBmFWf08pl4FwjgDPQMq1af6eCStkCn5MUuaPLFbiiQ\nSmFP1uEqRIJGcHP8kflBj+c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "financeiro-bot@eighth-etching-437615-p9.iam.gserviceaccount.com",
+  "client_id": "106865584882109331827",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/financeiro-bot%40eighth-etching-437615-p9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
